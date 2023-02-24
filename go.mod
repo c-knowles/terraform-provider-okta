@@ -18,7 +18,7 @@ require (
 	github.com/okta/okta-sdk-golang v0.1.0
 	github.com/peterhellberg/link v1.0.0
 	github.com/russellhaering/goxmldsig v0.0.0-20180430223755-7acd5e4a6ef7 // indirect
-	golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
 
 replace github.com/okta/okta-sdk-golang => github.com/articulate/okta-sdk-golang v1.0.4
